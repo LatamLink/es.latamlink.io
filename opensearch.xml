@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>LatamLink EOSIO Testnet - LACChain</ShortName>
-  <Description>Search LatamLink EOSIO Testnet - LACChain</Description>
+  <ShortName>Red Blockchain EOSIO para LAC Chain BID Labs</ShortName>
+  <Description>Search Red Blockchain EOSIO para LAC Chain BID Labs</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="16" type="image/x-icon">https://es.latamlink.io/img/favicon.ico</Image>
   <Url type="text/html" method="get" template="https://es.latamlink.io/search?q={searchTerms}"/>
