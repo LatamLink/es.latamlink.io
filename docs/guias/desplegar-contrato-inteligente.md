@@ -123,7 +123,7 @@ Para este punto de la ejecución, ya tenemos nuestro contrato inteligente desple
 
 ## 6. Verificación de contrato
 
-Para esto nos dirigimos a la aplicación ([LACChain EOSIO Dashboard](https://dashboard.latamlink.io/accounts)), podemos verificar que la cuenta es dueña de un contrato que expone la acción `hola` y que contiene la información abi en la que se especifican en estructura JSON las acciones dentro del contrato y componentes asociados.
+Para esto nos dirigimos a la aplicación ([LACChain EOSIO Dashboard](https://lacchain.eosio.online/accounts)), podemos verificar que la cuenta es dueña de un contrato que expone la acción `hola` y que contiene la información abi en la que se especifican en estructura JSON las acciones dentro del contrato y componentes asociados.
 
 Una vez que el contrato esté listo, podemos ejecutar una acción en el contrato, esta va recibir como input la frase **LACChain EOSIO** y se obtendrá como output **hola LACChain EOSIO**. Para esto debemos ejecutar el siguiente comando:
 

@@ -19,7 +19,7 @@ A continuación algunos ejemplos de endpoints HTTP RPC
   - Nodo Observador solo lectura : [https://observer.eosio.cr](https://latamlink.eosio.cr/v1/chain/get_info)
   - Nodo Escritor sin Middleware : [https://writer.eosio.cr](https://latamlink.eosio.cr/v1/chain/get_info) 
 
-La lista completa de endpoints esta disponible en el siguiente enlace : [Endpoints LACChain EOSIO](https://dashboard.latamlink.io/endpoints)
+La lista completa de endpoints esta disponible en el siguiente enlace : [Endpoints LACChain EOSIO](https://lacchain.eosio.online/endpoints)
 
 ### Endpoints State History Plugin
 

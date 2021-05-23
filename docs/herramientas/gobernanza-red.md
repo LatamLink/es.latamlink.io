@@ -20,7 +20,7 @@ Esta herramienta es para manejar el permisionamiento y gobernanza de LACChain EO
 
 Herramienta GUI para facilitar la gestión de la red por parte del comité permisionador. 
 
-https://dashboard.latamlink.io/management
+https://lacchain.eosio.online/management
 
 Alguna de las funciones disponibles son:
 

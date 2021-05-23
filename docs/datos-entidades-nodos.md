@@ -77,7 +77,7 @@ Insertará o actualizará un registro en la tabla `entity` en los contratos del 
 	"code_of_conduct": "https://eoscostarica.io/en/transparency/#code_of_conduct",
 	"ownership_disclosure": "https://eoscostarica.io/en/transparency/#ownership_disclosure",
 	"github_user": "eoscostarica",
-	"chain_resources": ["https://dashboard.latamlink.io"],
+	"chain_resources": ["https://lacchain.eosio.online"],
 	"other_resources": ["https://guias.eoscostarica.io", "https://guides.eoscostarica.io"],
 	"branding": {
 		"logo_256": "https://eoscostarica.io/assets/eos-CostaRica-256x256.png",
@@ -228,7 +228,7 @@ Para nodos de tipo validador y observador existen estos servicios opcionales.
   - `snapshot-api`
 
 ## Enlaces Utiles
-Con el propósito de facilitar la actualización de datos de las entidades hemos desarrollado una herramienta para entidades permisionadas.  Para acceder a la interfaz de usuario para actualizar datos seleccione la opción "Update Node Info" en el [Monitor de red](https://dashboard.latamlink.io).
+Con el propósito de facilitar la actualización de datos de las entidades hemos desarrollado una herramienta para entidades permisionadas.  Para acceder a la interfaz de usuario para actualizar datos seleccione la opción "Update Node Info" en el [Monitor de red](https://lacchain.eosio.online).
 
 Valide sus JSON aquí: https://www.jsonschemavalidator.net/
 

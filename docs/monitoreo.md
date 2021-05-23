@@ -12,7 +12,7 @@ El comité permisionador se reserva el derecho discrecional de eliminar un nodo 
 
 Se ha desarrollado un monitor de red nativo de LACChain EOSIO como herramienta para desarrolladores y usuarios para el lanzamiento del Pro Testnet. El monitor incorporará métricas "on-chain" y "off-chain" 
 
-El monitor de red esta disponible en el siguiente enlace: **https://dashboard.latamlink.io**
+El monitor de red esta disponible en el siguiente enlace: **https://lacchain.eosio.online**
 
 El monitor de red es totalmente código abierto y se puede ver el proyecto en el siguiente [**Repositorio de GitHub**](https://github.com/eoscostarica/eosio-dashboard)
 
@@ -29,7 +29,7 @@ Esta métrica de velocidad de CPU utiliza como punto de referencia el tiempo de 
 La acción `cpu` es ejecutados durante el turno de producción de cada productor de bloques y registra los tiempos de ejecución del contrato utilizando el campo `cpu_usage_us` incluido en todas las transacciones de la red.
 
 
-[**Ver métricas de CPU de Nodos validadores**](https://dashboard.latamlink.io/node-performance) 
+[**Ver métricas de CPU de Nodos validadores**](https://lacchain.eosio.online/node-performance) 
 
 ### RAM Benchmark
 
