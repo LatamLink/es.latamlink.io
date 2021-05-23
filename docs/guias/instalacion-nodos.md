@@ -51,7 +51,7 @@ Consulte la guía para crear una cuenta según su rol de usuario:
 
 ## 2. Autenticarse en el Dashboard
 
-La red de LACChain EOSIO cuenta con un [dashboard](https://dashboard.latamlink.io/), el cual permite a los usuarios realizar gestiones dentro de la red, incluida la opción de desplegar varios tipos de nodos.  
+La red de LACChain EOSIO cuenta con un [dashboard](https://lacchain.eosio.online/), el cual permite a los usuarios realizar gestiones dentro de la red, incluida la opción de desplegar varios tipos de nodos.  
 
 Accede con su cuenta de tipo `Partner` o `Non-Partner`. Consulte nuestro tutorial de como administrar las [llaves privadas](./llaves-privadas#31-autenticadores-externos-wallets)
 
@@ -67,7 +67,7 @@ Para poder crear el nodo, simplemente completamos los datos solicitados en el fo
 
 ### Ejemplos de configuración
 
-El dashboard también cuenta con una sección en la cual podemos descargar un ejemplo de la configuración de los diferentes tipos de nodo, solamente tenemos que acceder a la opción de [`configuración de nodo`](https://dashboard.latamlink.io/node-config) dentro de las herramientas. 
+El dashboard también cuenta con una sección en la cual podemos descargar un ejemplo de la configuración de los diferentes tipos de nodo, solamente tenemos que acceder a la opción de [`configuración de nodo`](https://lacchain.eosio.online/node-config) dentro de las herramientas. 
 
 ![Sección de configuración](/img/docs/dashboard_01.png)
 

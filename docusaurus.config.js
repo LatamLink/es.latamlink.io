@@ -60,7 +60,7 @@ const siteConfig = {
         //   position: 'right',
         // },
         {
-          href: 'https://dashboard.latamlink.io/',
+          href: 'https://lacchain.eosio.online/',
           label: 'Monitor de Red',
           position: 'right',
         },
@@ -89,7 +89,7 @@ const siteConfig = {
           items: [
             {
               label: 'Monitor de Red',
-              to: 'http://dashboard.latamlink.io/',
+              to: 'http://lacchain.eosio.online/',
             },
             {
               label: 'Explorador de Bloques',
